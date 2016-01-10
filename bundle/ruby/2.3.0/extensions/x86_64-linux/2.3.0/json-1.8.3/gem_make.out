@@ -1,0 +1,9 @@
+/home/hsnl/.rvm/rubies/ruby-2.3.0/bin/ruby extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
